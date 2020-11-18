@@ -133,7 +133,7 @@
     "react-test-renderer": "^16.2.0",
     "relay-compiler": "https://github.com/alloy/relay/releases/download/v1.5.0-artsy.3/relay-compiler-1.5.0-artsy.3.tgz",
     "relay-compiler-language-typescript": "^1.1.0",
-    "semantic-release": "^12.4.1",
+    "semantic-release": "^17.2.3",
     "simple-progress-webpack-plugin": "^1.1.2",
     "static-extend": "^0.1.2",
     "storybook-addon-scissors": "^4.0.1",
